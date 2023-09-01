@@ -5,6 +5,34 @@ This repository contains a list of previously undertaken projects by final-year 
 ## Learn More About Contributions
 In order to learn more about how to contribute to this initiative, kindly follow the `contributions.md` file by clicking [here](contributions.md).
 
+## Acknowledgement to Contributors
+In order to acknowledge and give credit to all contributors, a dedicated file, [`contributors.md`](contributors.md). It will be updated regularly as time goes on in order to recognize their efforts to encourage further contributions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 ---
 **An initiative by [Jessy Baki, ACES President(22/23)](github.com/blackdreamer15).**
