@@ -6,6 +6,12 @@ This repository contains a list of previously undertaken projects by final-year 
 To learn more about how to contribute to this initiative, kindly follow the `contributions.md` file by clicking [here](contributions.md).
 <br/>
 
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact us directly at bakijessy@gmail.com
+
+
 ## Acknowledgement to Contributors🙏🏿💌
 To acknowledge and credit all contributors, a dedicated file, [`contributors.md`](contributors.md). It will be updated regularly as time goes on to recognize their efforts to encourage further contributions.
 
